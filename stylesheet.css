@@ -1,0 +1,15 @@
+body {
+    color:white;
+    background-color: salmon;
+}
+
+.heading {
+    width:80%;
+    font-size: 83px;
+}
+
+#camera {
+    border: 2px black ;
+    width: 350;
+    height: 300;
+}
